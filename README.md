@@ -1,4 +1,4 @@
-## skripte
+## SKRIPTE
 
 Skripte pokretati iz Powershell-a, pod admin privilegijama
 
@@ -8,7 +8,7 @@ ALL_remove.ps1 - brise sve foldere
 
 ALL_run_p.ps1 - starta sve projekte
 
-# node preduslovi
+# NODE PREDUSLOVI
 
 - instaliran node
 - instaliran npm
