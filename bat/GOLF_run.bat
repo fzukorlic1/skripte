@@ -1,3 +1,3 @@
 cd GOLF
-cd SI-GOLF-Materijali
+cd SI-GOLF-2019
 node index.js
