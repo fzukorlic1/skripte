@@ -8,6 +8,8 @@ ALL_run_p.ps1 - starta sve projekte
 
 ALL_remove.ps1 - brise sve foldere
 
+Mobilna aplikacija se pokreće na isti način iz foldera skripte-mobilna.
+
 ## NODE PREDUSLOVI
 
 - instaliran node
