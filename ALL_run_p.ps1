@@ -1,7 +1,7 @@
 $niz = @(
-    "BRAVO", "CHARLIE", "DELTA", 
+    "ALPHA", "BRAVO", "CHARLIE", "DELTA", "ECHO"
     "FOX", "GOLF", "HOTEL", "JULIET", "KILO", 
-    "LIMA", "MIKE", "PAPA", 
+    "LIMA", "MIKE", "OSCAR", "PAPA", 
     "SIERA", "TANGO", "UNIFORM", "FRONTEND"
 )
 $procesi = New-Object Collections.ArrayList
