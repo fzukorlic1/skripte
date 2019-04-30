@@ -1,3 +1,3 @@
 cd SIERA
-cd SI-SIERA-2019
+cd SI-SIERA-Studenti
 node index.js
