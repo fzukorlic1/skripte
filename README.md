@@ -1,4 +1,4 @@
-# skripte
+## skripte
 
 Skripte pokretati iz Powershell-a, pod admin privilegijama
 
@@ -8,7 +8,13 @@ ALL_remove.ps1 - brise sve foldere
 
 ALL_run_p.ps1 - starta sve projekte
 
-ECHO I OSCAR - SPRING BOOT
+# node preduslovi
+
+- instaliran node
+- instaliran npm
+
+
+# ECHO I OSCAR - SPRING BOOT
 
 1. Preuzeti Apache Maven 3.6.1
 
@@ -54,13 +60,5 @@ link: https://javatutorial.net/set-java-home-windows-10
 
 For complete documentation, see https://maven.apache.org/download.html#Installation 
   
-3. Build projekta
 
-Iz foldera projekta:
-
-mvn install
-	
-4. Pokretanje
-
-mvn spring-boot:run
 
